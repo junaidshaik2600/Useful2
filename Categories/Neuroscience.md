@@ -1,5 +1,7 @@
 # 🧠 Neuroscience
 
+Videos explaining how the brain works, including attention, memory, learning, and decision-making.
+
 ---
 
 ## Neuroscientist: How To Boost Your Focus PERMANENTLY in Minutes
