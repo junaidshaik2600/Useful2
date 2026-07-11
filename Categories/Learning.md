@@ -1,7 +1,8 @@
 # 📚 Learning
 
----
+Videos about learning faster, studying smarter, memory techniques, and knowledge retention.
 
+---
 ## How to STUDY So FAST It Feels ILLEGAL
 
 **Channel:** Karl Avillo, MD
