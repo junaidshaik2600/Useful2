@@ -1,5 +1,7 @@
 # 🌊 Flow State
 
+Videos about achieving peak performance, deep work, and entering a state of complete immersion.
+
 ---
 
 ## how to easily enter flow state in 2 minutes.
