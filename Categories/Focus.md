@@ -46,3 +46,97 @@ Learn practical methods to enter deep focus on demand.
 
 **Link**
 https://www.youtube.com/watch?v=l86xggdQcKQ
+
+---
+
+## How to Get Into INSANE Focus That Feels ILLEGAL
+
+**Channel:** simple, actually
+
+**Primary Category:** Focus
+
+**Also belongs to:**
+- Flow State
+- Productivity
+
+**Tags**
+- Focus
+- Flow State
+- Deep Work
+- Concentration
+
+**Why watch?**
+Discover practical techniques to eliminate distractions and achieve deep focus.
+
+**Link**
+https://www.youtube.com/watch?v=OF1wBpGXTUk
+
+---
+
+## How to Get Into INSANE Focus That Feels ILLEGAL
+
+**Channel:** Just Ben Talks
+
+**Primary Category:** Focus
+
+**Also belongs to:**
+- Flow State
+- Self Improvement
+
+**Tags**
+- Focus
+- Flow State
+- Mindset
+- Deep Work
+
+**Why watch?**
+Learn mindset shifts and practical habits for achieving intense focus.
+
+**Link**
+https://www.youtube.com/watch?v=JizaKwWtH4Q
+
+---
+
+## how to easily enter flow state in 2 minutes.
+
+**Channel:** riskambition
+
+**Primary Category:** Focus
+
+**Also belongs to:**
+- Flow State
+
+**Tags**
+- Focus
+- Flow State
+- Performance
+
+**Why watch?**
+Quick techniques to enter a focused flow state in just a few minutes.
+
+**Link**
+https://www.youtube.com/watch?v=X47Whg8H1rk
+
+---
+
+## Illegal Focus: How to Enter in Flow State
+
+**Channel:** The Quiet Alpha
+
+**Primary Category:** Focus
+
+**Also belongs to:**
+- Flow State
+- Productivity
+
+**Tags**
+- Focus
+- Flow State
+- Deep Work
+- Concentration
+
+**Why watch?**
+Learn how to consistently enter a deep work and flow state.
+
+**Link**
+https://www.youtube.com/watch?v=GJIsUR9wJ2k
