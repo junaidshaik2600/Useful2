@@ -1,5 +1,7 @@
 # ⏰ Time Management
 
+Videos about planning, prioritization, scheduling, and making better use of your time.
+
 ---
 
 ## How to Be So Productive it Feels ILLEGAL
