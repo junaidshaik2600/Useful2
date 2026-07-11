@@ -8,6 +8,7 @@ A curated collection of educational YouTube videos organized by topic.
 
 ## 🚀 Performance
 - [Focus](Categories/Focus.md)
+- [Flow State](Categories/Flow-State.md)
 - [Productivity](Categories/Productivity.md)
 - [Time Management](Categories/Time-Management.md)
 - [Habits](Categories/Habits.md)
