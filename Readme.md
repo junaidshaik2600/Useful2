@@ -30,3 +30,17 @@ A curated collection of educational YouTube videos organized by topic.
 
 ## ❤️ Health
 - [Health](Categories/Health.md)
+
+
+---
+
+## 📌 How this library works
+
+- Each video is categorized by its primary topic.
+- Videos may appear in multiple categories if they are highly relevant.
+- Every entry includes:
+  - Channel
+  - Categories
+  - Tags
+  - Why Watch
+  - Link
