@@ -1,5 +1,7 @@
 # 🎯 Focus
 
+Videos about improving concentration, eliminating distractions, deep work, and entering a flow state.
+
 ---
 
 ## Neuroscientist: How To Boost Your Focus PERMANENTLY in Minutes
