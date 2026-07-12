@@ -31,6 +31,10 @@ A curated collection of educational YouTube videos organized by topic.
 ## ❤️ Health
 - [Health](Categories/Health.md)
 
+## 🌱 Personal Growth
+- [Self Improvement](Categories/Self-Improvement.md)
+- [Philosophy](Categories/Philosophy.md)
+- [Psychology](Categories/Psychology.md)
 
 ---
 
