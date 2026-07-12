@@ -142,3 +142,27 @@ Learn how to consistently enter a deep work and flow state.
 
 **Link**
 https://www.youtube.com/watch?v=GJIsUR9wJ2k
+
+---
+
+## Avoiding Distractions & Doing Deep Work
+
+**Channel:** Huberman Lab Clips
+
+**Primary Category:** Focus
+
+**Also belongs to:**
+- Productivity
+- Neuroscience
+
+**Tags**
+- Deep Work
+- Focus
+- Distractions
+- Huberman
+
+**Why watch?**
+Learn neuroscience-backed strategies for eliminating distractions and working deeply.
+
+**Link**
+https://www.youtube.com/results?search_query=Avoiding+Distractions+and+Doing+Deep+Work+Huberman+Lab
