@@ -17,7 +17,7 @@ A curated collection of educational YouTube videos organized by topic.
 - [Learning](Categories/Learning.md)
 - [Books](Categories/Books.md)
 
-## 💼 Career
+## 💼 Professional
 - [Communication](Categories/Communication.md)
 - [Career](Categories/Career.md)
 
