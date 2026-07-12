@@ -18,7 +18,7 @@ A curated collection of educational YouTube videos organized by topic.
 - [Books](Categories/Books.md)
 
 ## 💼 Professional
-- [Communication](Categories/Communication & Relationships.md)
+- [Communication](Categories/Communication_&_Relationships.md)
 - [Career](Categories/Career.md)
 
 ## 💻 Technology
