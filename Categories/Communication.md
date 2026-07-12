@@ -4,8 +4,6 @@ Videos about speaking, listening, persuasion, negotiation, and building better r
 
 ---
 
----
-
 ## How To Make Friends As An Adult
 
 **Channel:** Matthew Hussey
