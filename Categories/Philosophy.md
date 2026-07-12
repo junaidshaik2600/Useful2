@@ -25,3 +25,25 @@ Explore Carl Jung's philosophy of self-discovery, fear, and becoming your authen
 
 **Link**
 https://www.youtube.com/watch?v=EGM_Pl8j_QU
+
+---
+
+## How To Build Self Discipline - Marcus Aurelius (Stoicism)
+
+**Channel:** Philosophies for Life
+
+**Primary Category:** Philosophy
+
+**Also belongs to:**
+- Self Improvement
+
+**Tags**
+- Stoicism
+- Marcus Aurelius
+- Discipline
+
+**Why watch?**
+Learn timeless Stoic principles for building self-discipline.
+
+**Link**
+https://www.youtube.com/results?search_query=How+To+Build+Self+Discipline+Marcus+Aurelius
