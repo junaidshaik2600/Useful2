@@ -27,7 +27,6 @@ Learn practical strategies for building meaningful friendships as an adult.
 https://www.youtube.com/watch?v=9DDJBEY6GGY
 
 ---
-
 ## Making Friends as an Adult
 
 **Channel:** TEDx Talks (Mark Shapiro, MD)
